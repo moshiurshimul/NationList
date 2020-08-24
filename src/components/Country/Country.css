@@ -1,0 +1,17 @@
+.country-list {
+    border-bottom: 1px solid gray;
+    border-width: 50%;
+}
+
+.country-list img{
+    width: 50px;
+}
+
+.cuntrybtn {
+    margin-bottom: 20px;
+    font-size: 16px;
+    padding: 10px 30px;
+    background: orangered;
+    border: none;
+    color: #fff;
+}
